@@ -32,7 +32,7 @@ fi
 
 }
 
-scanner() {
+scanner(Toygar Dincer) {
 
 read -p $'\e[1;92m[\e[0m\e[1;77m?\e[0m\e[1;92m] Input Username:\e[0m ' username
 
